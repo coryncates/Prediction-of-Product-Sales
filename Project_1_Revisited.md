@@ -37,7 +37,8 @@ The Random Forest feature importances plot illustrates the significance of each 
 For detailed insights and accurate interpretations, please refer to the actual results and outputs in the [Project 1 Revisited Notebook](Project_1_Revisited.ipynb).
 
 ### Additional Details
-- Linear Regression Coefficients Plot: ![Linear Regression Plot](/Users/corycates/Documents/GitHub/Project-Core/download.png)
-- Random Forest Feature Importances Plot: ![Random Forest Importances Plot](/Users/corycates/Documents/GitHub/Project-Core/download (1).png)
+- Linear Regression Coefficients Plot: ![Linear Regression Plot](https://github.com/coryncates/Prediction-of-Product-Sales/blob/main/Lin.png?raw=true)
+- Random Forest Feature Importances Plot: ![Random Forest Importances Plot](https://github.com/coryncates/Prediction-of-Product-Sales/blob/main/Reg.png?raw=true)
+
 
 
