@@ -24,7 +24,7 @@ The Linear Regression coefficients plot reveals the influence of each feature on
 ## Random Forest Feature Importances
 
 ### Random Forest Feature Importances Interpretation
-![Random Forest Importances Plot](/Users/corycates/Documents/GitHub/Project-Core/download (1).png)
+![Random Forest Importances Plot]([https://github.com/coryncates/Prediction-of-Product-Sales/blob/main/Reg.png]
 
 The Random Forest feature importances plot illustrates the significance of each feature in predicting supermarket sales. Features with higher importance values have a greater impact on the model's predictions.
 
