@@ -12,7 +12,7 @@ Detailed observations and insights are crucial for stakeholders to comprehend th
 ## Linear Regression Coefficients
 
 ### Linear Regression Coefficients Interpretation
-![Linear Regression Plot](/Users/corycates/Documents/GitHub/Project-Core/download.png)
+![Linear Regression Plot](https://github.com/coryncates/Prediction-of-Product-Sales/edit/main/Project_1_Revisited.md#:~:text=Lin.-,png,-PredictionOfProdSales.ipynb)
 
 The Linear Regression coefficients plot reveals the influence of each feature on the predicted supermarket sales. Each coefficient represents the change in sales for a one-unit change in the respective feature, assuming other features remain constant.
 
