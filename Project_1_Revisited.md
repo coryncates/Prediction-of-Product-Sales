@@ -12,7 +12,7 @@ Detailed observations and insights are crucial for stakeholders to comprehend th
 ## Linear Regression Coefficients
 
 ### Linear Regression Coefficients Interpretation
-![Linear Regression Plot](https://github.com/coryncates/Prediction-of-Product-Sales/edit/main/Project_1_Revisited.md#:~:text=Lin.-,png,-PredictionOfProdSales.ipynb)
+![Linear Regression Plot](https://github.com/coryncates/Prediction-of-Product-Sales/edit/main/Project_1_Revisited.md#:~:text=Lin.-,png)
 
 The Linear Regression coefficients plot reveals the influence of each feature on the predicted supermarket sales. Each coefficient represents the change in sales for a one-unit change in the respective feature, assuming other features remain constant.
 
@@ -24,7 +24,7 @@ The Linear Regression coefficients plot reveals the influence of each feature on
 ## Random Forest Feature Importances
 
 ### Random Forest Feature Importances Interpretation
-![Random Forest Importances Plot]([https://github.com/coryncates/Prediction-of-Product-Sales/blob/main/Reg.png?raw=true]
+![Random Forest Importances Plot](https://github.com/coryncates/Prediction-of-Product-Sales/blob/main/Reg.png?raw=true)
 
 The Random Forest feature importances plot illustrates the significance of each feature in predicting supermarket sales. Features with higher importance values have a greater impact on the model's predictions.
 
